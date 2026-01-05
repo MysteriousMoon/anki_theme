@@ -18,8 +18,8 @@ A clean, modern theme addon for Anki that transforms the default interface into 
 
 ## 📸 Screenshots
 
-![Screenshot](pic_light.webp)
-![Screenshot](pic_dark.webp)
+![Screenshot](pic/pic_light.webp)
+![Screenshot](pic/pic_dark.webp)
 
 ## 🚀 Installation
 
