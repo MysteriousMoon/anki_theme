@@ -1,0 +1,32 @@
+{
+    "table_max_width": 820,
+    "row_padding_vertical": 9,
+    "row_padding_horizontal": 12,
+    "row_spacing": 10,
+    "count_pill_height": 22,
+    "border_radius": 10,
+    "light": {
+        "background": "#f6f6f7",
+        "surface": "#ffffff",
+        "surface_2": "#fbfbfc",
+        "border": "#e7e7ea",
+        "text": "#1f2328",
+        "muted": "#6b7280",
+        "accent": "#4f6ef7",
+        "new": "#3b82f6",
+        "learn": "#f59e0b",
+        "due": "#10b981"
+    },
+    "dark": {
+        "background": "#1c1c1f",
+        "surface": "#242427",
+        "surface_2": "#2a2a2e",
+        "border": "#34343a",
+        "text": "#e6e6e8",
+        "muted": "#a0a0aa",
+        "accent": "#7aa2ff",
+        "new": "#7aa2ff",
+        "learn": "#ffcc66",
+        "due": "#57d39a"
+    }
+}
