@@ -23,11 +23,10 @@ A clean, modern theme addon for Anki that transforms the default interface into 
 
 ## 🚀 Installation
 
-### Manual Installation
-
 ### From AnkiWeb
 
-*Coming soon*
+966384781
+[https://ankiweb.net/shared/info/966384781](https://ankiweb.net/shared/info/966384781)
 
 ## 🎨 Design System
 
